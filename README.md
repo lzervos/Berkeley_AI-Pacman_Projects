@@ -1,4 +1,4 @@
-### README file of the repository
+### README of the repository
 ### What is this repository for? ###
 
 * This code was written in the framework of Artificial Intelligence class in university
