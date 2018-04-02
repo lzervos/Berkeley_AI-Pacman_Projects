@@ -1,7 +1,8 @@
 ### README of the repository
 ### What is this repository for? ###
 
-* This code was written in the framework of Artificial Intelligence class in university
+* This code was written in the framework of Artificial Intelligence class in University.
+* Link for class website(http://cgi.di.uoa.gr/~ys02/)
 * 1st version
 * Information about the projects you can find here(http://ai.berkeley.edu/project_overview.html)
 
