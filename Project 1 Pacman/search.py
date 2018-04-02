@@ -36,7 +36,7 @@ class SearchProblem:
     def isGoalState(self, state):
         """
           state: Search state
-
+          
         Returns True if and only if the state is a valid goal state.
         """
         util.raiseNotDefined()
